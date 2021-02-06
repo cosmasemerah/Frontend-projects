@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="336" viewBox="0 0 296 336">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #17c41f;
+      }
+
+      .cls-3 {
+        stroke: #bfbfbf;
+      }
+
+      .cls-11, .cls-4, .cls-9 {
+        fill: none;
+      }
+
+      .cls-4, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        fill: #fce9ff;
+      }
+
+      .cls-6 {
+        fill: #bfffd7;
+      }
+
+      .cls-7 {
+        fill: #ffedb3;
+      }
+
+      .cls-8 {
+        fill: #f9d1ff;
+      }
+
+      .cls-9 {
+        stroke-width: 3px;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-12 {
+        filter: url(#Rectangle_4);
+      }
+    </style>
+    <filter id="Rectangle_4" x="0" y="0" width="296" height="336" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18.5" result="blur"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_37" data-name="Group 37" transform="translate(-51.5 -383.5)">
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, 51.5, 383.5)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" class="cls-1" width="185" height="225" rx="47" transform="translate(53.5 50.5)"/>
+    </g>
+    <g id="Component_10_1" data-name="Component 10 – 1" transform="translate(84 465)">
+      <g id="Group_3" data-name="Group 3" transform="translate(0 -27.988)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="20.5" cy="20.5" r="20.5" transform="translate(0 150.988)"/>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-3" transform="translate(0 150.988)">
+          <circle class="cls-10" cx="20.5" cy="20.5" r="20.5"/>
+          <circle class="cls-11" cx="20.5" cy="20.5" r="20"/>
+        </g>
+        <path id="Path_2" data-name="Path 2" class="cls-4" d="M1875.137,536.592l6.7,6.737,11.8-11.86" transform="translate(-1863.846 -365.754)"/>
+        <path id="Path_3" data-name="Path 3" class="cls-4" d="M1875.137,536.592l6.7,6.737,11.8-11.86" transform="translate(-1863.846 -365.754)"/>
+        <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-5" width="143" height="9" rx="4.5" transform="translate(47 156.988)"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" class="cls-6" width="143" height="9" rx="4.5" transform="translate(47 156.988)"/>
+        <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-5" width="44" height="9" rx="4.5" transform="translate(47 171.988)"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-6" width="44" height="9" rx="4.5" transform="translate(47 171.988)"/>
+        <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-5" width="8" height="9" rx="4" transform="translate(182 171.988)"/>
+        <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-6" width="8" height="9" rx="4" transform="translate(182 171.988)"/>
+        <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-5" width="8" height="9" rx="4" transform="translate(169 171.988)"/>
+        <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-6" width="8" height="9" rx="4" transform="translate(169 171.988)"/>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(0 -89.545)">
+        <ellipse id="Ellipse_1-2" data-name="Ellipse 1" class="cls-2" cx="20.5" cy="21" rx="20.5" ry="21" transform="translate(0 150.545)"/>
+        <g id="Ellipse_2-2" data-name="Ellipse 2" class="cls-3" transform="translate(0 150.545)">
+          <ellipse class="cls-10" cx="20.5" cy="21" rx="20.5" ry="21"/>
+          <ellipse class="cls-11" cx="20.5" cy="21" rx="20" ry="20.5"/>
+        </g>
+        <path id="Path_2-2" data-name="Path 2" class="cls-4" d="M1875.137,536.592l6.7,6.737,11.8-11.86" transform="translate(-1863.846 -365.754)"/>
+        <path id="Path_3-2" data-name="Path 3" class="cls-4" d="M1875.137,536.592l6.7,6.737,11.8-11.86" transform="translate(-1863.846 -365.754)"/>
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-5" width="143" height="8" rx="4" transform="translate(47 157.545)"/>
+        <rect id="Rectangle_12-2" data-name="Rectangle 12" class="cls-7" width="143" height="8" rx="4" transform="translate(47 157.545)"/>
+        <rect id="Rectangle_6-2" data-name="Rectangle 6" class="cls-5" width="44" height="7" rx="3.5" transform="translate(47 172.545)"/>
+        <rect id="Rectangle_9-2" data-name="Rectangle 9" class="cls-7" width="44" height="7" rx="3.5" transform="translate(47 172.545)"/>
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" class="cls-5" width="8" height="7" rx="3.5" transform="translate(182 172.545)"/>
+        <rect id="Rectangle_10-2" data-name="Rectangle 10" class="cls-7" width="8" height="7" rx="3.5" transform="translate(182 172.545)"/>
+        <rect id="Rectangle_8-2" data-name="Rectangle 8" class="cls-5" width="8" height="7" rx="3.5" transform="translate(169 172.545)"/>
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" class="cls-7" width="8" height="7" rx="3.5" transform="translate(169 172.545)"/>
+      </g>
+      <g id="Group_36" data-name="Group 36" transform="translate(-84 -465)">
+        <circle id="Ellipse_1-3" data-name="Ellipse 1" class="cls-2" cx="20.5" cy="20.5" r="20.5" transform="translate(84 465)"/>
+        <circle id="Ellipse_2-3" data-name="Ellipse 2" class="cls-2" cx="20.5" cy="20.5" r="20.5" transform="translate(84 465)"/>
+        <rect id="Rectangle_5-3" data-name="Rectangle 5" class="cls-5" width="143" height="9" rx="4.5" transform="translate(131 471)"/>
+        <rect id="Rectangle_12-3" data-name="Rectangle 12" class="cls-8" width="143" height="9" rx="4.5" transform="translate(131 471)"/>
+        <rect id="Rectangle_6-3" data-name="Rectangle 6" class="cls-5" width="44" height="8" rx="4" transform="translate(131 486)"/>
+        <rect id="Rectangle_9-3" data-name="Rectangle 9" class="cls-8" width="44" height="8" rx="4" transform="translate(131 486)"/>
+        <rect id="Rectangle_7-3" data-name="Rectangle 7" class="cls-5" width="8" height="8" rx="4" transform="translate(266 486)"/>
+        <rect id="Rectangle_10-3" data-name="Rectangle 10" class="cls-8" width="8" height="8" rx="4" transform="translate(266 486)"/>
+        <rect id="Rectangle_8-3" data-name="Rectangle 8" class="cls-5" width="8" height="8" rx="4" transform="translate(253 486)"/>
+        <rect id="Rectangle_11-3" data-name="Rectangle 11" class="cls-8" width="8" height="8" rx="4" transform="translate(253 486)"/>
+        <path id="Path_18" data-name="Path 18" class="cls-9" d="M377.751,916.314l5.548,5.548,9.777-9.777" transform="translate(-280.414 -431.695)"/>
+      </g>
+    </g>
+  </g>
+</svg>
