@@ -190,4 +190,37 @@ iframe {
 nav.menu-btn {
   display: block;
 }
+
+nav {
+  position: fixed;
+  z-index: 999;
+  width: 66%;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  background: var(--secondary-color);
+  padding: 1em;
+}
+
+nav img {
+  float: right;
+  margin: .5em;
+  cursor: pointer;
+}
+
+nav ul.primary-nav {
+  margin-top: 5em;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+  padding: .5em;
+}
+
+nav li a:hover {
+  font-weight: bold;
+}
 /*# sourceMappingURL=main.css.map */
